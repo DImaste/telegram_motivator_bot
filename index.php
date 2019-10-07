@@ -10,4 +10,6 @@ $messageText = "Hello!";
 
 $bot->sendMessage($message->getChat()->getId(), $messageText);
 
+print "I am working!";
+
 ?>
