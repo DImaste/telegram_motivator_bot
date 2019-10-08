@@ -1,6 +1,7 @@
 <?php 
 
-require_once "vendor/autoload.php";
+require "vendor/autoload.php";
+require ('../vendor/autoload.php');
 
 $api = '822999589:AAHE3ZOiQhnNj71PSUgpyKLm9yYBUrUE82Y';
 
