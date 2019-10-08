@@ -1,7 +1,9 @@
 <?php 
 
 require "vendor/autoload.php";
-require ('../vendor/autoload.php');
+#require '../vendor/autoload.php';
+
+use \TelegramBot\Api\BotApi;
 
 $api = '822999589:AAHE3ZOiQhnNj71PSUgpyKLm9yYBUrUE82Y';
 
